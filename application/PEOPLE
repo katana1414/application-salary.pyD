@@ -1,2 +1,0 @@
-def get_employees(date):
-print(f"Функция 'get_employees' вызвана из модуля {name}: {date}")
